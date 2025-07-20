@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Mac and Linux hidden files
+.DS_Store
+Thumbs.db
+
+# Model and output files
+*.h5
+*.pkl
+*.sav
+*.joblib
+
+# Dataset or result files
+*.csv
+*.tsv
+*.xlsx
+
+# Logs
+*.log
+
+# Colab system files
+*.nbconvert.ipynb
